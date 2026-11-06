@@ -1,34 +1,53 @@
-# Olá, eu sou a Camila Pinheiro! \o/
+<h1 data-importer="text" align="left">Oi! \o/</h1>
 
-Sou estudante de Ciência da Computação na **UECE** e estou atualmente no 5o semestre.
+###
 
----
+<p data-importer="text" align="left">Sou a Camila Pinheiro, sou uma graduanda de Ciência da Computação na Universidade Estadual do Ceará!<br><br>My name is Camila Pinheiro and I'm a Computer Science Undergraduate, from State University of Ceará!</p>
 
-### Sobre Mim XD 
+###
 
-- Atualmente estou trabalhando com **Visão Computacional**.
-- 📚 Estudando a fundo **Programação Competitiva**, **Machine Learning** e **Desenvolvimento de Software** em geral.
-- 🏆 Participo e estudo para as **Maratonas de Programação**.
-- Sou bolsista na **IDESCO** em um projeto do **Grupo de Engenharia de Software e Sistemas Autoadaptativos (GESAD)**.
+<br clear="both">
 
----
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/camilapinheiro1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-### 🛠️ Tech Stack
+###
 
-**Linguagens**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p data-importer="text" align="left">- Atualmente estou trabalhando com **Visão Computacional** e **Engenharia de Software**.<br>- 📚Estudando a fundo **Programação Competitiva**, **Machine Learning** e **Engenharia de Software** em geral.<br>- 🏆 Participo e estudo para as **Maratonas de Programação**.<br>- Sou bolsista de P, D/I no **Grupo de Engenharia de Software e Sistemas Autoadaptativos (GESAD)**.</p>
 
-**Machine Learning & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+###
 
-**Ferramentas & Outros**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<h2 data-importer="text" align="left">Tecnologias Mais Usadas</h2>
 
-### 📫 Contato
+###
 
-<a href="https://linkedin.com/in/diaspcamila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Camila Pinheiro" height="30" width="40" /></a>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camilapinheiro1/camilapinheiro1/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camilapinheiro1/camilapinheiro1/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/camilapinheiro1/camilapinheiro1/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
