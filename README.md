@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">- Atualmente estou trabalhando com **Visão Computacional** e **Engenharia de Software**.<br>- 📚Estudando a fundo **Programação Competitiva**, **Machine Learning** e **Engenharia de Software** em geral.<br>- 🏆 Participo e estudo para as **Maratonas de Programação**.<br>- Sou bolsista de P, D/I no **Grupo de Engenharia de Software e Sistemas Autoadaptativos (GESAD)**.</p>
+<p data-importer="text" align="left">- Atualmente estou trabalhando com **Visão Computacional** e **Engenharia de Software**.<br>- Estudando a fundo **Programação Competitiva**, **Machine Learning** e **Engenharia de Software** em geral.<br>- Participo e estudo para as **Maratonas de Programação**.<br>- Sou bolsista de Pesquisa, Desenvolvimento e Inovação no **Grupo de Engenharia de Software e Sistemas Autoadaptativos (GESAD)**.</p>
 
 ###
 
